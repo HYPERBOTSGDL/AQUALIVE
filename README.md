@@ -23,6 +23,6 @@ La manera en que nos pueden apoyar a hacer crecer la aplicacion seria dando idea
 
 # Autores del proyecto.
 
-Jesús Manuel Cuervo Iturbide
-Isaac Atilano Tobón
+Jesús Manuel Cuervo Iturbide<br/>
+Isaac Atilano Tobón<br/>
 Humberto García Romo
